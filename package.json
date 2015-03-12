@@ -39,7 +39,7 @@
     "browserify": "6.2.0",
     "concat-stream": "1.4.6",
     "derequire": "1.2.0",
-    "engine.io": "Autmattic/engine.io",
+    "engine.io": "pjump/engine.io",
     "expect.js": "0.2.0",
     "express": "3.4.8",
     "istanbul": "0.2.3",
@@ -55,6 +55,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Automattic/engine.io-client.git"
+    "url": "https://github.com/pjump/engine.io-client.git"
   }
 }
